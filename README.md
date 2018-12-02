@@ -2,7 +2,7 @@
 
 This repository is the code for [*Deep Fashion Analysis with Feature Map Upsampling and Landmark-driven Attention*](https://drive.google.com/file/d/1Dyj0JIziIrTRWMWDfPOapksnJM5iPzEi/view) in the First Workshop on Computer Vision for Fashion, Art and Design (Fashion) of ECCV 2018.
 
-
+![network](https://github.com/fdjingyuan/Deep-Fashion-Analysis-ECCV2018/blob/master/images/network.png)
 
 ### Requirements
 
