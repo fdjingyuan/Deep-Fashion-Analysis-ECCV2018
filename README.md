@@ -96,4 +96,12 @@ The following table shows the category classification and attribute prediction r
 
 ### Citation
 
-The paper are going to be published soon. You can find the full text [here](https://drive.google.com/file/d/1Dyj0JIziIrTRWMWDfPOapksnJM5iPzEi/view).
+We are very pleased if this paper helps you for further work. Please cite the paper as:
+@inproceedings{liu2018deep,
+  title={Deep Fashion Analysis with Feature Map Upsampling and Landmark-Driven Attention},
+  author={Liu, Jingyuan and Lu, Hong},
+  booktitle={European Conference on Computer Vision},
+  pages={30--36},
+  year={2018},
+  organization={Springer}
+}
