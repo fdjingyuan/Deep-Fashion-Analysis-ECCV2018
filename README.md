@@ -97,6 +97,7 @@ The following table shows the category classification and attribute prediction r
 ### Citation
 
 We are very pleased if this paper helps you for further work. Please cite the paper as:
+```
 @inproceedings{liu2018deep,
   title={Deep Fashion Analysis with Feature Map Upsampling and Landmark-Driven Attention},
   author={Liu, Jingyuan and Lu, Hong},
@@ -105,3 +106,4 @@ We are very pleased if this paper helps you for further work. Please cite the pa
   year={2018},
   organization={Springer}
 }
+```
